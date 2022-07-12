@@ -19,6 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="cad0e37b-99c8-45de-81ac-f75747cbbb51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo1.html" afterDir="false" />
+    </list>
     <list default="true" id="cad0e37b-99c8-45de-81ac-f75747cbbb51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,10 @@
       <workItem from="1657208377051" duration="490000" />
       <workItem from="1657208871417" duration="1011000" />
       <workItem from="1657611043061" duration="171000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1657612027116" duration="168000" />
+>>>>>>> dd04772 (demo 1)
     </task>
     <task id="LOCAL-00001" summary="commit index.html">
       <created>1657208901250</created>
@@ -95,6 +102,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1657210440364" />
+<<<<<<< HEAD
     <state x="0" y="171" key="MergeDialog" timestamp="1657209148403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -103,6 +111,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="224" width="1126" height="816" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657209148411" />
+=======
+    <state x="258" y="140" width="1552" height="900" key="MergeDialog" timestamp="1657612059117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="258" y="140" width="1552" height="900" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657612059117" />
+    <state x="565" y="224" width="1126" height="816" key="MultipleFileMergeDialog" timestamp="1657612059122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="224" width="1126" height="816" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657612059122" />
+>>>>>>> dd04772 (demo 1)
     <state x="795" y="222" key="RollbackChangesDialog" timestamp="1657611614112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
