@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad0e37b-99c8-45de-81ac-f75747cbbb51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1657208377051" duration="490000" />
       <workItem from="1657208871417" duration="1011000" />
       <workItem from="1657611043061" duration="171000" />
-      <workItem from="1657612027116" duration="168000" />
+      <workItem from="1657612027116" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="commit index.html">
       <created>1657208901250</created>
