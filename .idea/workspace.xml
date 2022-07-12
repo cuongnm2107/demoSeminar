@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad0e37b-99c8-45de-81ac-f75747cbbb51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/issue2.html" afterDir="false" />
-    </list>
+    <list default="true" id="cad0e37b-99c8-45de-81ac-f75747cbbb51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1657208375796</updated>
       <workItem from="1657208377051" duration="490000" />
-      <workItem from="1657208871417" duration="1767000" />
-      <workItem from="1657247967915" duration="402000" />
+      <workItem from="1657208871417" duration="1011000" />
+      <workItem from="1657611043061" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="commit index.html">
       <created>1657208901250</created>
@@ -105,9 +103,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="224" width="1126" height="816" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657209148411" />
+    <state x="795" y="222" key="RollbackChangesDialog" timestamp="1657611614112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657611614112" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1657208905043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1657208905043" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1657612009091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1657612009091" />
   </component>
 </project>
